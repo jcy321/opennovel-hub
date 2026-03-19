@@ -6,6 +6,19 @@
 
 ---
 
+## 📚 文档导航
+
+| 分栏 | 说明 |
+|------|------|
+| [🎯 项目起源](docs/ORIGIN.md) | OpenNovel 的诞生故事与设计思考 |
+| [💡 设计哲学](docs/PHILOSOPHY.md) | 核心设计理念与架构决策 |
+| [🤖 八大 Agent](docs/AGENTS.md) | 天道、执笔、刘和平等 Agent 的详细设计 |
+| [⚖️ 与 OMO 对比](docs/OMO_COMPARISON.md) | 与 Oh My OpenCode 的异同分析 |
+| [🛠️ 技术选型](docs/TECH_STACK.md) | Rust + Axum 技术栈与开发进度 |
+| [📎 附录](docs/APPENDIX.md) | 参考资料、术语表、FAQ |
+
+---
+
 ## 项目简介
 
 OpenNovel 是一个创新的多 Agent 小说创作协作系统。它借鉴了 AI 编程工具（如 Oh My OpenCode）的成功经验，将"专业分工"理念引入小说创作领域。
